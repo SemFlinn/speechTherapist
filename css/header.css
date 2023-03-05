@@ -1777,7 +1777,7 @@
     width: 24vw;
   }
 }
-@media (max-width: 600px), (max-height: 500px) {
+@media (max-width: 600px) and (max-height: 500px) {
   .main__left a, .main__right a {
     background-size: 65%;
     background-position: 50% 0;
